@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8233-C68D
+
+ Directory of C:\ProjectDemo
+
+22-03-2018  12:52    <DIR>          .
+22-03-2018  12:52    <DIR>          ..
+22-03-2018  12:58                 0 Sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  405,782,233,088 bytes free
